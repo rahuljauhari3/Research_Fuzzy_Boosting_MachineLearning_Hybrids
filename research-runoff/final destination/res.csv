@@ -1,0 +1,6 @@
+,pre,act,opt,kge_test,r2_test,rmse_test,kge_train,r2_train,rmse_train
+0,StandardScaler,relu,adam,,-0.007789132690597,0.8792145633206521,,-4.452099199125925e-05,0.8985714784100406
+,pre,act,opt,kge_test,r2_test,rmse_test,kge_train,r2_train,rmse_train
+0,StandardScaler,relu,rmsprop,,-0.007789132690597,0.8792145633206521,,-4.452099199125925e-05,0.8985714784100406
+,pre,act,opt,kge_test,r2_test,rmse_test,kge_train,r2_train,rmse_train
+0,StandardScaler,relu,adam,,-0.007789132690597,0.8792145633206521,,-4.452099199125925e-05,0.8985714784100406
